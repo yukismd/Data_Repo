@@ -169,3 +169,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# データ保存など作業用ディレクトリ
+tmp
+
+# Mac用
+.DS_Store
+.Rproj.user
+
