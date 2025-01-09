@@ -4,3 +4,5 @@
 
 Original Article: [input/onepiece_20241215.txt](input/onepiece_20241215.txt)  
 Fake Article: [output/fakepeace_20241215.txt](output/fakepeace_20241215.txt)
+
+RAG Questions for Fake Article: [output/questions_fake.csv](output/questions_fake.csv)
