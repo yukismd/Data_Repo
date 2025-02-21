@@ -9,5 +9,5 @@
 
 ****: markitdown_default.txtの成形版: [doc_outputs/markitdown_structured.txt](doc_outputs/markitdown_structured.txt)
 - markitdown_default.txtを手作業で成形
-- 画像（[images](images)）はVLMで説明文を作成（）。説明内容は、<'画像ファイル名'の写真>タグで記述
+- 画像（[images](images)）はVLMで説明文を作成（[code/gpt4o-min_image_description.ipynb](code/gpt4o-min_image_description.ipynb)）。説明内容は、<'画像ファイル名'の写真>タグで記述
 
