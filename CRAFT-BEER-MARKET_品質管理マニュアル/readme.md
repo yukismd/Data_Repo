@@ -11,3 +11,7 @@
 - markitdown_default.txtを手作業で成形
 - 画像（[images](images)）はVLMで説明文を作成（[code/gpt4o-min_image_description.ipynb](code/gpt4o-min_image_description.ipynb)）。説明内容は、<'画像ファイル名'の写真>タグで記述
 
+
+**markitdown_structured.txtの分割版**: [doc_outputs/CRAFT-BEER-MARKET_品質管理マニュアル_txt](doc_outputs/CRAFT-BEER-MARKET_品質管理マニュアル_txt)
+- markitdown_structured.txtを各章別にファイル分割
+
