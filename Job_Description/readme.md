@@ -2,4 +2,4 @@
 
 JDs: [data](./data)  
 
-JDs recieved through LinkedIn (https://www.linkedin.com/in/yuki-shimada-profile/). Mainly Data Science related positions. 
+JDs I have recieved. Mainly Data Science related positions. My profile: https://www.linkedin.com/in/yuki-shimada-profile/  
